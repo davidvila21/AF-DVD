@@ -67,7 +67,7 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 * Un aspecto importante es la **implementación de un proceso de priorización** para determinar las necesidades de evidencia en diferentes situaciones, equilibrando factores como calidad, tiempo y restauración de servicios. Por ejemplo, un aspecto a tener en cuenta en este proceso es el orden de volatilidad, dando prioridad a la adquisición de memorias cuya información puede desaparecer rápidamente.
 * En cuanto al manejo de pruebas, se deben tener en cuenta principios como relevancia, confiabilidad y suficiencia. Además, **cualquier proceso** llevado a cabo debe ser **auditable, repetible, reproducible y justificable**, lo cual implica una documentación detallada de las herramientas utilizadas, sus versiones y los procedimientos ejecutados.
-* La **cadena de custodia **(CoC) juega un papel fundamental, destacando aspectos como la identificación inicial, etiquetado, preservación, documentación detallada, control de accesos, transporte seguro y presentación ante un tribunal. Este documento permite rastrear cada hallazgo y **contiene información relevante** como el tipo de dispositivo, hora de recolección, hash, historial de transferencias entre el personal, firma del notario, entre otros.
+* La **cadena de custodia** (CoC) juega un papel fundamental, destacando aspectos como la identificación inicial, etiquetado, preservación, documentación detallada, control de accesos, transporte seguro y presentación ante un tribunal. Este documento permite rastrear cada hallazgo y **contiene información relevante** como el tipo de dispositivo, hora de recolección, hash, historial de transferencias entre el personal, firma del notario, entre otros.
 * Otros aspectos a considerar incluyen la **identificación de dispositivos y medios de almacenamiento digital**, sistemas de navegación móvil, cámaras y redes basadas en TCP/IP. La recopilación puede variar dependiendo de si los dispositivos están encendidos o apagados y debe seguir pautas específicas.
 * La **adquisición** puede ser **total o parcial**, dependiendo de la situación de los dispositivos y se utilizarán herramientas adecuadas para cada caso. Finalmente, la preservación implica sellar los datos adquiridos, verificar su integridad y aplicar controles para preservar la confidencialidad, integridad y disponibilidad de los datos.
 
@@ -76,49 +76,35 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 **1. Perspectiva en general**
 
-
-
 * La **NIST** establece un enfoque sistemático dividido en estas etapas: recopilación de datos, examen, análisis y elaboración de informes, con el objetivo de convertir medios digitales en evidencia válida.
 * La  **ISO**  proporciona directrices para manejar evidencia digital, enfocándose en la identificación, recopilación, adquisición y preservación de pruebas digitales, manteniendo su integridad y validez legal.
 
 **2. Recolección de Datos**
-
-
 
 * La **NIST** resalta la necesidad de identificar fuentes de información y realizar una adquisición planificada, sugiriendo auditorías y centralización de registros.
 * La  **ISO**  prioriza las necesidades de evidencia y su adquisición según el orden de volatilidad, dando preferencia a la memoria volátil.
 
 **3. Identificación y Adquisición de Datos**
 
-
-
 * La **NIST** se enfoca en una amplia gama de dispositivos, considerando restricciones legales y organizativas. La adquisición se planifica, se ejecuta con herramientas y se verifica la integridad de los datos.
 * La  **ISO**  insiste en principios como relevancia, confiabilidad y suficiencia, con procesos auditables, repetibles, reproducibles y justificables. La cadena de custodia es esencial en esta fase.
 
 **4. Manejo de Pruebas y Cadena de Custodia**
-
-
 
 * La** NIST** destaca en la contención de incidentes y la documentación profunda durante la respuesta. La cadena de custodia en esta norma asegura que los datos no se alteren.
 * La cadena de custodia en la  **ISO** incluye identificación inicial, etiquetado, preservación y documentación detallada, con controles estrictos de acceso y transporte seguro.
 
 **5. Examen de Datos**
 
-
-
 * La **NIST** aborda la evaluación de datos recolectados, destacando desafíos como el volumen de datos y la necesidad de herramientas especializadas.
 * La adquisición en la  **ISO**  puede ser total o parcial, usando herramientas adecuadas según la situación del dispositivo (encendido o apagado).
 
 **6. Análisis de Datos**
 
-
-
 * La **NIST** enfatiza los enfoques sistemáticos y el uso de herramientas para identificar y correlacionar datos relevantes, con una comparación con líneas de base y documentación rigurosa.
 * La  **ISO** se enfoca en la preservación de datos, sellado, verificación de integridad y controles para garantizar la confidencialidad, integridad y disponibilidad de los datos.
 
 **7. Elaboración de Informes**
-
-
 
 * La **NIST** considera explicaciones alternativas y adapta los informes al público objetivo, con una revisión y mejora continua de procedimientos y herramientas.
 * La  **ISO**  detalla los procedimientos ejecutados y documenta las herramientas utilizadas y sus versiones, asegurando que los procesos sean justificables y reproducibles.
@@ -175,9 +161,9 @@ Este proceso de identificación es crítico (basado en la ISO/IEC 27037) ya que 
 
 
 
-1. **<span style="text-decoration:underline;">Reconocer y documentar</span>** tanto la **evidencia física** (almacenada en dispositivos tangibles) como la **lógica** (representación virtual dentro de un dispositivo), asegurando un correcto etiquetado y clasificación. 
-2. **<span style="text-decoration:underline;">Otorgar prioridad</span>** a la evidencia **más volátil** para **minimizar su pérdida** y asegurar la obtención de la mejor prueba posible.
-3. Considerar la posibilidad de **<span style="text-decoration:underline;">evidencia digital oculta</span>** y realizar una búsqueda profunda y sistemática de todos los dispositivos digitales que puedan contener evidencia. No se deben pasar por alto dispositivos pequeños o camuflados entre material irrelevante. Durante esta búsqueda, se asegura y se toma **control del área** que contiene los dispositivos, se **aleja a las personas** de los dispositivos y fuentes de alimentación, y **se documenta a cualquier persona que tenga acceso** a la ubicación o pueda estar involucrada en la escena del incidente.
+1. **Reconocer y documentar** tanto la **evidencia física** (almacenada en dispositivos tangibles) como la **lógica** (representación virtual dentro de un dispositivo), asegurando un correcto etiquetado y clasificación. 
+2. **Otorgar prioridad** a la evidencia **más volátil** para **minimizar su pérdida** y asegurar la obtención de la mejor prueba posible.
+3. Considerar la posibilidad de **evidencia digital oculta** y realizar una búsqueda profunda y sistemática de todos los dispositivos digitales que puedan contener evidencia. No se deben pasar por alto dispositivos pequeños o camuflados entre material irrelevante. Durante esta búsqueda, se asegura y se toma **control del área** que contiene los dispositivos, se **aleja a las personas** de los dispositivos y fuentes de alimentación, y **se documenta a cualquier persona que tenga acceso** a la ubicación o pueda estar involucrada en la escena del incidente.
 4. Si es posible, se debe **documentar** la **escena** con** fotografías, capturas **de pantalla fiables  o **videos**, registrando todo lo posible del estado actual de la adquisición, evidencia o dispositivo en manos del analista forense, además de la propia escena física del (los) lugar/es de los hechos. Este enfoque garantiza que la evidencia digital se identifique y maneje de manera efectiva, preservando su integridad y validez para su uso en el análisis forense.
 
 
@@ -268,7 +254,7 @@ Desarrollar un plan considerando:
 
 
 * **Valor Probable:** Relevancia de la fuente en el contexto de la investigación.
-* **Volatilidad: **Urgencia para capturar datos antes de que se pierdan.
+* **Volatilidad:** Urgencia para capturar datos antes de que se pierdan.
 * **Esfuerzo Necesario:** Recursos y tiempo requeridos para adquirir los datos.
 
 #### **2. Procedimientos de Recolección**
@@ -312,7 +298,7 @@ Para garantizar la integridad de las pruebas:
 * **Dispositivos de Solo Lectura:** Utilizar dispositivos que prevengan la modificación de los datos.
 * **Redundancia:** Crear múltiples copias de los hallazgos.
 * **Almacenamiento Adecuado:** Guardar las evidencias en lugares acondicionados específicamente para ello.
-* **Evitar el Uso del Original: **Trabajar siempre con copias.
+* **Evitar el Uso del Original:** Trabajar siempre con copias.
 
 
 ##### **3.2. Cadena de Custodia**
@@ -357,7 +343,7 @@ Existen **protocolos seguros** para garantizar la **integridad** de la evidencia
 
 ###### 3.2.7. Presentación Legal
 
-En caso de que la **evidencia** deba ser **presentada **en un **tribunal** u otra instancia legal, es **obligatorio documentar** todos los pasos seguidos para **asegurar** la **integridad** y **autenticidad** de la evidencia.
+En caso de que la **evidencia** deba ser **presentada** en un **tribunal** u otra instancia legal, es **obligatorio documentar** todos los pasos seguidos para **asegurar** la **integridad** y **autenticidad** de la evidencia.
 
 Las siguientes tablas constituyen la estructura de manutención de la Cadena de Custodia:
 
@@ -502,7 +488,7 @@ Las siguientes tablas constituyen la estructura de manutención de la Cadena de 
    <td>
     Tipo de dispositivo:
    </td>
-   <td>
+   <td colspan="2" >
    </td>
   </tr>
   <tr>
@@ -579,8 +565,7 @@ Las siguientes tablas constituyen la estructura de manutención de la Cadena de 
 
 El enfoque de esta fase combina herramientas y técnicas especializadas siguiendo las recomendaciones del NIST y las directrices de la ISO/IEC 27037:2012, permitiendo identificar información relevante y descartar datos irrelevantes. A continuación, se describen los componentes clave del proceso:
 
-**➢ Selección de Instrumentos y Herramientas Forenses: \
-**
+**➢ Selección de Instrumentos y Herramientas Forenses:**
 
 
 
