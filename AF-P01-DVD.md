@@ -14,7 +14,6 @@
 
 [Metodología Propia - DVD 0001](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#metodolog%C3%ADa-propia---dvd-0001)
 - [Estudio e Identificación de la evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-e-identificaci%C3%B3n-de-la-evidencia)
-
   - [Estudio Inicial](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-inicial)
   - [Identificación de evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#identificaci%C3%B3n-de-evidencias)
 
@@ -27,7 +26,6 @@
     - [3.3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#33-almacenamiento-seguro)
 
 - [Análisis de Evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-evidencias)
-
 - [Documentación y Presentación de resultados](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#documentaci%C3%B3n-y-presentaci%C3%B3n-de-resultados)
 
 [Conclusión](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#conclusi%C3%B3n)
