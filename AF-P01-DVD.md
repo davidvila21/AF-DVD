@@ -60,7 +60,7 @@ La norma NIST establece un enfoque sistemático para responder a incidentes info
 * Finalmente, se recomienda **mantener una consistencia en las investigaciones**, reconocer las fuentes de datos, recopilar datos de manera proactiva, aplicar un proceso de recolección estándar, adoptar un enfoque metódico en el análisis y revisar y actualizar constantemente las prácticas.
 
 
-### **2º - ISO/IEC 27037:2012 **
+### **2º - ISO/IEC 27037:2012**
 
 La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidencia digital de manera efectiva, complementando a las versiones 27001 y 27002. Esta se centra en aspectos como la **identificación, recopilación, adquisición y preservación de pruebas digitales**, con la finalidad de mantener su integridad y garantizar su validez legal.
 
