@@ -16,55 +16,31 @@
 
 [Metodología Propia - DVD 0001](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#metodolog%C3%ADa-propia---dvd-0001)
 
-[Estudio e Identificación de la evidencia]()
+[Estudio e Identificación de la evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-e-identificaci%C3%B3n-de-la-evidencia)
 
-[Estudio Inicial]()
+[Estudio Inicial](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-inicial)
 
-[Identificación de evidencias]()
+[Identificación de evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#identificaci%C3%B3n-de-evidencias)
 
-[Recolección y Adquisición de Datos]()
+[Recolección y Adquisición de Datos](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#recolecci%C3%B3n-y-adquisici%C3%B3n-de-datos)
 
-[1. Identificación y Planificación]()
+[1. Identificación y Planificación](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1-identificaci%C3%B3n-y-planificaci%C3%B3n)
    
-[1.1. Identificación de Fuentes de Datos]()
+[2. Procedimientos de recolección]()
+
+[3. Procedimientos de Almacenado](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#3-procedimientos-de-almacenado)
    
-[1.2. Recolección Proactiva]()
+[3.1. Preservación de la Evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#31-preservaci%C3%B3n-de-la-evidencia)
 
-[1.3. Planificación de la Adquisición]()
+[3.2. Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#32-cadena-de-custodia)
 
-[2.1. Consideraciones Iniciales]()
+[3.3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#33-almacenamiento-seguro)
 
-[2.2. Qué No Hacer]()
+[Análisis de Evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-evidencias)
 
-[2.3. Uso de Herramientas Forenses]()
+[Documentación y Presentación de resultados](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#documentaci%C3%B3n-y-presentaci%C3%B3n-de-resultados)
 
-[4. Procedimientos de Almacenado]()
-   
-[3.1. Preservación de la Evidencia]()
-
-[3.2. Cadena de Custodia]()
-
-[3.2.1. Reconocimiento Inicial de la Evidencia]()
-
-[3.2.2. Identificación y Marcado]()
-
-[3.2.3. Preservación y Seguridad]()
-
-[3.2.4. Registro Íntegro]()
-
-[3.2.5. Control de Accesos]()
-
-[3.2.6. Transporte de la evidencia]()
-
-[3.2.7. Presentación Legal]()
-
-[3.3. Almacenamiento Seguro]()
-
-[Análisis de Evidencias]()
-
-[Documentación y Presentación de resultados]()
-
-[Conclusión]()
+[Conclusión](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#conclusi%C3%B3n)
 
 
 ## **Introducción**
@@ -90,9 +66,9 @@ La norma NIST establece un enfoque sistemático para responder a incidentes info
 
 * En la etapa de recolección de datos, se resalta la necesidad de identificar de manera efectiva posibles fuentes de información y realizar una adquisición de datos cuidadosamente planificada. Se sugiere tener en cuenta acciones proactivas, como **auditorías y la centralización de los registros**, para apoyar una recolección de datos continua con miras a responder a incidentes.
 * La **identificación** se centra en la amplia gama de dispositivos digitales disponibles, desde ordenadores hasta celulares, y la importancia de tener en cuenta las restricciones legales y organizativas. Posteriormente, en la etapa de **adquisición de datos**, se divide en **planificación**, **adquisición efectiva** mediante herramientas y **verificación de la integridad** para garantizar que los datos no se alteren, subrayando la importancia de mantener una clara cadena de custodia.
-* Cuando se trata de **responder a incidentes**, se destaca la necesidad de **contención **al detectar un incidente, como la desconexión física o la **implementación** de **medidas de seguridad **adicionales. También se enfatiza la necesidad de evaluar el impacto operativo y documentar de manera profunda el acceso al sistema afectado durante la respuesta al incidente.
+* Cuando se trata de **responder a incidentes**, se destaca la necesidad de **contención** al detectar un incidente, como la desconexión física o la **implementación** de **medidas de seguridad** adicionales. También se enfatiza la necesidad de evaluar el impacto operativo y documentar de manera profunda el acceso al sistema afectado durante la respuesta al incidente.
 * En la etapa de **examen**, se aborda la **evaluación de los datos recolectados**, destacando los desafíos relacionados con el volumen de datos y la necesidad de herramientas especializadas. Se menciona el **filtrado de datos** para identificar información relevante en grandes conjuntos de datos y se resalta la **importancia de las herramientas y técnicas especializadas**, como las búsquedas de texto y patrones, para facilitar el proceso de examen.
-* El **análisis **requiere enfoques sistemáticos para** identificar y correlacionar datos relevantes**, destacando la necesidad de herramientas como registros centralizados y software de gestión de eventos de seguridad. La comparación con las líneas de base y la documentación rigurosa son aspectos esenciales del análisis, especialmente si la evidencia se utilizará en acciones legales.
+* El **análisis requiere enfoques sistemáticos para identificar y correlacionar datos relevantes**, destacando la necesidad de herramientas como registros centralizados y software de gestión de eventos de seguridad. La comparación con las líneas de base y la documentación rigurosa son aspectos esenciales del análisis, especialmente si la evidencia se utilizará en acciones legales.
 * En la etapa de **informe**, se enfatiza la consideración de explicaciones alternativas y la adaptación del informe al público objetivo. Se destaca la importancia de identificar información accionable y se señala la necesidad de revisar y mejorar continuamente los procedimientos, así como mantenerse al día con las nuevas herramientas y tendencias tecnológicas.
 * Finalmente, se recomienda **mantener una consistencia en las investigaciones**, reconocer las fuentes de datos, recopilar datos de manera proactiva, aplicar un proceso de recolección estándar, adoptar un enfoque metódico en el análisis y revisar y actualizar constantemente las prácticas.
 
@@ -103,10 +79,10 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 
 
-* Un aspecto importante es la** implementación de un proceso de priorización** para determinar las necesidades de evidencia en diferentes situaciones, equilibrando factores como calidad, tiempo y restauración de servicios. Por ejemplo, un aspecto a tener en cuenta en este proceso es el orden de volatilidad, dando prioridad a la adquisición de memorias cuya información puede desaparecer rápidamente.
+* Un aspecto importante es la **implementación de un proceso de priorización** para determinar las necesidades de evidencia en diferentes situaciones, equilibrando factores como calidad, tiempo y restauración de servicios. Por ejemplo, un aspecto a tener en cuenta en este proceso es el orden de volatilidad, dando prioridad a la adquisición de memorias cuya información puede desaparecer rápidamente.
 * En cuanto al manejo de pruebas, se deben tener en cuenta principios como relevancia, confiabilidad y suficiencia. Además, **cualquier proceso** llevado a cabo debe ser **auditable, repetible, reproducible y justificable**, lo cual implica una documentación detallada de las herramientas utilizadas, sus versiones y los procedimientos ejecutados.
 * La **cadena de custodia **(CoC) juega un papel fundamental, destacando aspectos como la identificación inicial, etiquetado, preservación, documentación detallada, control de accesos, transporte seguro y presentación ante un tribunal. Este documento permite rastrear cada hallazgo y **contiene información relevante** como el tipo de dispositivo, hora de recolección, hash, historial de transferencias entre el personal, firma del notario, entre otros.
-* Otros aspectos a considerar incluyen la** identificación de dispositivos y medios de almacenamiento digital**, sistemas de navegación móvil, cámaras y redes basadas en TCP/IP. La recopilación puede variar dependiendo de si los dispositivos están encendidos o apagados y debe seguir pautas específicas.
+* Otros aspectos a considerar incluyen la **identificación de dispositivos y medios de almacenamiento digital**, sistemas de navegación móvil, cámaras y redes basadas en TCP/IP. La recopilación puede variar dependiendo de si los dispositivos están encendidos o apagados y debe seguir pautas específicas.
 * La **adquisición** puede ser **total o parcial**, dependiendo de la situación de los dispositivos y se utilizarán herramientas adecuadas para cada caso. Finalmente, la preservación implica sellar los datos adquiridos, verificar su integridad y aplicar controles para preservar la confidencialidad, integridad y disponibilidad de los datos.
 
 
@@ -170,25 +146,25 @@ Mi metodología **DVD 0001** se ha desarrollado como una síntesis eficiente de 
 
 1ª FASE: **Estudio e Identificación de la Evidencia:**
 
-Se realiza un análisis preliminar o “<span style="text-decoration:underline;">estudio inicial</span>”, comprendiendo los requerimientos y los objetivos del análisis forense. Esto nos permite diseñar un plan de acción adecuado y establecer los recursos necesarios.
+Se realiza un análisis preliminar o **estudio inicial**, comprendiendo los requerimientos y los objetivos del análisis forense. Esto nos permite diseñar un plan de acción adecuado y establecer los recursos necesarios.
 
-En esta fase, también se lleva a cabo la <span style="text-decoration:underline;">identificación</span> de posibles fuentes <span style="text-decoration:underline;">de evidencia</span> digital, siguiendo los principios de <span style="text-decoration:underline;">relevancia</span> y <span style="text-decoration:underline;">priorización</span> establecidos en la ISO/IEC 27037:2012. Además, se aplica un proceso de priorización considerando la criticidad de la evidencia y el contexto del incidente, tomando en cuenta el orden de volatilidad sugerido por la NIST.
+En esta fase, también se lleva a cabo la **identificación** de posibles fuentes **de evidencia** digital, siguiendo los principios de **relevancia** y **priorización** establecidos en la ISO/IEC 27037:2012. Además, se aplica un proceso de priorización considerando la criticidad de la evidencia y el contexto del incidente, tomando en cuenta el orden de volatilidad sugerido por la NIST.
 
 2ª FASE: **Recolección y Adquisición de Datos:**
 
-La <span style="text-decoration:underline;">recolección</span> de datos se realiza de manera planificada, identificando y <span style="text-decoration:underline;">asegurando</span> la <span style="text-decoration:underline;">integridad</span> de las fuentes de información, conforme a las pautas de la NIST. Además, se ejecuta la <span style="text-decoration:underline;">adquisición</span> de datos de manera efectiva, utilizando herramientas y técnicas apropiadas, según lo recomendado por la ISO/IEC 27037:2012, y se verifica la integridad de los datos adquiridos.
+La recolección de datos se realiza de manera planificada, identificando y asegurando la integridad de las fuentes de información, conforme a las pautas de la NIST. Además, se ejecuta la adquisición de datos de manera efectiva, utilizando herramientas y técnicas apropiadas, según lo recomendado por la ISO/IEC 27037:2012, y se verifica la integridad de los datos adquiridos.
 
 3ª Fase: **Preservación y Cadena de Custodia:**
 
-En esta etapa, se garantiza la <span style="text-decoration:underline;">preservación</span> de la evidencia digital, aplicando medidas para mantener su integridad y validez legal, siguiendo los estándares establecidos por ambas metodologías. Además, se establece y documenta una <span style="text-decoration:underline;">cadena de custodia</span> <span style="text-decoration:underline;">robusta</span>, conforme a los requisitos detallados en la ISO/IEC 27037:2012, asegurando la <span style="text-decoration:underline;">trazabilidad</span> y <span style="text-decoration:underline;">confiabilidad</span> de la evidencia.
+En esta etapa, se garantiza la preservación de la evidencia digital, aplicando medidas para mantener su integridad y validez legal, siguiendo los estándares establecidos por ambas metodologías. Además, se establece y documenta una cadena de custodia robusta, conforme a los requisitos detallados en la ISO/IEC 27037:2012, asegurando la trazabilidad y confiabilidad de la evidencia.
 
 4ª FASE: **Análisis de evidencias:**
 
-Se lleva a cabo <span style="text-decoration:underline;">un examen profundo</span> y detallado de los <span style="text-decoration:underline;">datos recolectados</span>, utilizando herramientas y técnicas especializadas, tal como se sugiere en la NIST, para identificar información relevante y descartar datos irrelevantes. Además, se realiza un <span style="text-decoration:underline;">análisis completo</span> de los datos, adoptando enfoques sistemáticos y comparando con líneas de base, conforme a las directrices de la ISO/IEC 27037:2012, para correlacionar datos y extraer conclusiones significativas.
+Se lleva a cabo un examen profundo y detallado de los datos recolectados, utilizando herramientas y técnicas especializadas, tal como se sugiere en la NIST, para identificar información relevante y descartar datos irrelevantes. Además, se realiza un análisis completo de los datos, adoptando enfoques sistemáticos y comparando con líneas de base, conforme a las directrices de la ISO/IEC 27037:2012, para correlacionar datos y extraer conclusiones significativas.
 
 5ª FASE: **Informe y Presentación de resultados:**
 
-En esta fase, se elabora un <span style="text-decoration:underline;">informe detallado</span> que documenta los hallazgos del análisis, adaptando la presentación al público objetivo y considerando explicaciones alternativas, como se recomienda en ambas metodologías. Además, se implementan **<span style="text-decoration:underline;">acciones posteriores</span>**, como <span style="text-decoration:underline;">revisar</span> y <span style="text-decoration:underline;">mejorar</span> <span style="text-decoration:underline;">continuamente</span> los procedimientos, así como mantenerse actualizado con las nuevas herramientas y tendencias tecnológicas, para asegurar la efectividad y relevancia continua de la metodología.
+En esta fase, se elabora un informe detallado que documenta los hallazgos del análisis, adaptando la presentación al público objetivo y considerando explicaciones alternativas, como se recomienda en ambas metodologías. Además, se implementan **acciones posteriores, como revisar y mejorar continuamente los procedimientos, así como mantenerse actualizado con las nuevas herramientas y tendencias tecnológicas, para asegurar la efectividad y relevancia continua de la metodología.
 
 
 ### **Estudio e Identificación de la evidencia**
@@ -309,7 +285,7 @@ Desarrollar un plan considerando:
 * **Volatilidad: **Urgencia para capturar datos antes de que se pierdan.
 * **Esfuerzo Necesario:** Recursos y tiempo requeridos para adquirir los datos.
 
-**2. Procedimientos de Recolección**
+#### **2. Procedimientos de Recolección**
 
 
 ##### **2.1. Consideraciones Iniciales**
@@ -693,7 +669,7 @@ En esta fase de la metodología **DVD 0001**, se va a elaborar un informe que do
 
 1. **Documentación Exhaustiva de Hallazgos:**
 
-    Como ya se sabe, la documentación de todas las actividades realizadas durante el proceso forense es esencial. Este registro **incluye** **cada paso** llevado a cabo **durante la identificación**,** recolección**, **adquisición** y **conservación** de evidencias digitales (El análisis va aparte, se explica más adelante). La documentación detallada garantiza la **trazabilidad** y la transparencia, lo que es especialmente importante en investigaciones que puedan tener implicaciones transfronterizas. Se debe prestar especial atención a la configuración de **fecha y hora** de los dispositivos, comparándola con una **fuente de tiempo confiable** y anotando cualquier discrepancia sin modificar el sistema. Además, se debe** registrar todo lo visible** en las pantallas de los dispositivos, incluyendo programas y procesos activos, así como los nombres de los documentos abiertos. Todo movimiento de los dispositivos y los **identificadores únicos**, como números de serie y marcas, también deben ser cuidadosamente documentados.
+    Como ya se sabe, la documentación de todas las actividades realizadas durante el proceso forense es esencial. Este registro **incluye** **cada paso** llevado a cabo **durante la identificación**, **recolección**, **adquisición** y **conservación** de evidencias digitales (El análisis va aparte, se explica más adelante). La documentación detallada garantiza la **trazabilidad** y la transparencia, lo que es especialmente importante en investigaciones que puedan tener implicaciones transfronterizas. Se debe prestar especial atención a la configuración de **fecha y hora** de los dispositivos, comparándola con una **fuente de tiempo confiable** y anotando cualquier discrepancia sin modificar el sistema. Además, se debe **registrar todo lo visible** en las pantallas de los dispositivos, incluyendo programas y procesos activos, así como los nombres de los documentos abiertos. Todo movimiento de los dispositivos y los **identificadores únicos**, como números de serie y marcas, también deben ser cuidadosamente documentados.
 
 2. **Preparación y Presentación de Resultados:**
 
@@ -705,7 +681,7 @@ En esta fase de la metodología **DVD 0001**, se va a elaborar un informe que do
 
 4. **Acciones Posteriores y Mejora Continua:**
 
-    Tras la elaboración del informe, se deben implementar acciones posteriores para **revisar** y **mejorar continuamente** todos los procedimientos forenses utilizados a lo largo del proceso completo, o al menos todos los posibles. Esto incluye **evaluar** la **efectividad** de las** técnicas** y **herramientas utilizadas**, así como mantenerse actualizado con las nuevas herramientas y tendencias tecnológicas. La mejora continua asegura que la metodología DVD 0001 permanezca efectiva y relevante, adaptándose a los cambios en el panorama de la seguridad digital.
+    Tras la elaboración del informe, se deben implementar acciones posteriores para **revisar** y **mejorar continuamente** todos los procedimientos forenses utilizados a lo largo del proceso completo, o al menos todos los posibles. Esto incluye **evaluar** la **efectividad** de las **técnicas** y **herramientas utilizadas**, así como mantenerse actualizado con las nuevas herramientas y tendencias tecnológicas. La mejora continua asegura que la metodología DVD 0001 permanezca efectiva y relevante, adaptándose a los cambios en el panorama de la seguridad digital.
 
 5. **Actualización y Capacitación del Personal:**
 
