@@ -2,38 +2,69 @@
 
 ## **Índice**
 
-Introducción
-Análisis de Metodologías
-¿Cuáles he elegido y por qué?
-1º - NIST
-2º - ISO/IEC 27037:2012
-Comparativa entre ISO y NIST
-Metodología Propia - DVD 0001
-Estudio e Identificación de la evidencia
-Estudio Inicial
-Identificación de evidencias
-Recolección y Adquisición de Datos
-1. Identificación y Planificación
-1.1. Identificación de Fuentes de Datos
-1.2. Recolección Proactiva
-1.3. Planificación de la Adquisición
-2.1. Consideraciones Iniciales
-2.2. Qué No Hacer
-2.3. Uso de Herramientas Forenses
-3. Procedimientos de Almacenado
-3.1. Preservación de la Evidencia
-3.2. Cadena de Custodia
-3.2.1. Reconocimiento Inicial de la Evidencia
-3.2.2. Identificación y Marcado
-3.2.3. Preservación y Seguridad
-3.2.4. Registro Íntegro
-3.2.5. Control de Accesos
-3.2.6. Transporte de la evidencia
-3.2.7. Presentación Legal
-3.3. Almacenamiento Seguro
-Análisis de Evidencias
-Documentación y Presentación de resultados
-Conclusión
+[Introducción](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#introducci%C3%B3n)
+
+[Análisis de Metodologías](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-metodolog%C3%ADas)
+
+[¿Cuáles he elegido y por qué?](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#cu%C3%A1les-he-elegido-y-por-qu%C3%A9)
+
+[1º - NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
+
+[2º - ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012-   )
+
+[Comparativa entre ISO y NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#comparativa-entre-iso-y-nist)
+
+[Metodología Propia - DVD 0001](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#metodolog%C3%ADa-propia---dvd-0001)
+
+[Estudio e Identificación de la evidencia]()
+
+[Estudio Inicial]()
+
+[Identificación de evidencias]()
+
+[Recolección y Adquisición de Datos]()
+
+[1. Identificación y Planificación]()
+   
+[1.1. Identificación de Fuentes de Datos]()
+   
+[1.2. Recolección Proactiva]()
+
+[1.3. Planificación de la Adquisición]()
+
+[2.1. Consideraciones Iniciales]()
+
+[2.2. Qué No Hacer]()
+
+[2.3. Uso de Herramientas Forenses]()
+
+[4. Procedimientos de Almacenado]()
+   
+[3.1. Preservación de la Evidencia]()
+
+[3.2. Cadena de Custodia]()
+
+[3.2.1. Reconocimiento Inicial de la Evidencia]()
+
+[3.2.2. Identificación y Marcado]()
+
+[3.2.3. Preservación y Seguridad]()
+
+[3.2.4. Registro Íntegro]()
+
+[3.2.5. Control de Accesos]()
+
+[3.2.6. Transporte de la evidencia]()
+
+[3.2.7. Presentación Legal]()
+
+[3.3. Almacenamiento Seguro]()
+
+[Análisis de Evidencias]()
+
+[Documentación y Presentación de resultados]()
+
+[Conclusión]()
 
 
 ## **Introducción**
@@ -137,7 +168,7 @@ Mi metodología **DVD 0001** se ha desarrollado como una síntesis eficiente de 
 
 **Fases de la metodología**
 
-1ª FASE:** Estudio e Identificación de la Evidencia:**
+1ª FASE: **Estudio e Identificación de la Evidencia:**
 
 Se realiza un análisis preliminar o “<span style="text-decoration:underline;">estudio inicial</span>”, comprendiendo los requerimientos y los objetivos del análisis forense. Esto nos permite diseñar un plan de acción adecuado y establecer los recursos necesarios.
 
