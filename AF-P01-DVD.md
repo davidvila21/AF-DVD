@@ -86,54 +86,54 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 
 * La **NIST** establece un enfoque sistemático dividido en estas etapas: recopilación de datos, examen, análisis y elaboración de informes, con el objetivo de convertir medios digitales en evidencia válida.
-* La **ISO** proporciona directrices para manejar evidencia digital, enfocándose en la identificación, recopilación, adquisición y preservación de pruebas digitales, manteniendo su integridad y validez legal.
+* La  **ISO**  proporciona directrices para manejar evidencia digital, enfocándose en la identificación, recopilación, adquisición y preservación de pruebas digitales, manteniendo su integridad y validez legal.
 
 **2. Recolección de Datos**
 
 
 
 * La **NIST** resalta la necesidad de identificar fuentes de información y realizar una adquisición planificada, sugiriendo auditorías y centralización de registros.
-* La** ISO** prioriza las necesidades de evidencia y su adquisición según el orden de volatilidad, dando preferencia a la memoria volátil.
+* La  **ISO**  prioriza las necesidades de evidencia y su adquisición según el orden de volatilidad, dando preferencia a la memoria volátil.
 
 **3. Identificación y Adquisición de Datos**
 
 
 
 * La **NIST** se enfoca en una amplia gama de dispositivos, considerando restricciones legales y organizativas. La adquisición se planifica, se ejecuta con herramientas y se verifica la integridad de los datos.
-* La** ISO** insiste en principios como relevancia, confiabilidad y suficiencia, con procesos auditables, repetibles, reproducibles y justificables. La cadena de custodia es esencial en esta fase.
+* La  **ISO**  insiste en principios como relevancia, confiabilidad y suficiencia, con procesos auditables, repetibles, reproducibles y justificables. La cadena de custodia es esencial en esta fase.
 
 **4. Manejo de Pruebas y Cadena de Custodia**
 
 
 
 * La** NIST** destaca en la contención de incidentes y la documentación profunda durante la respuesta. La cadena de custodia en esta norma asegura que los datos no se alteren.
-* La cadena de custodia en la **ISO **incluye identificación inicial, etiquetado, preservación y documentación detallada, con controles estrictos de acceso y transporte seguro.
+* La cadena de custodia en la  **ISO** incluye identificación inicial, etiquetado, preservación y documentación detallada, con controles estrictos de acceso y transporte seguro.
 
 **5. Examen de Datos**
 
 
 
 * La **NIST** aborda la evaluación de datos recolectados, destacando desafíos como el volumen de datos y la necesidad de herramientas especializadas.
-* La adquisición en la** ISO** puede ser total o parcial, usando herramientas adecuadas según la situación del dispositivo (encendido o apagado).
+* La adquisición en la  **ISO**  puede ser total o parcial, usando herramientas adecuadas según la situación del dispositivo (encendido o apagado).
 
 **6. Análisis de Datos**
 
 
 
 * La **NIST** enfatiza los enfoques sistemáticos y el uso de herramientas para identificar y correlacionar datos relevantes, con una comparación con líneas de base y documentación rigurosa.
-* La **ISO **se enfoca en la preservación de datos, sellado, verificación de integridad y controles para garantizar la confidencialidad, integridad y disponibilidad de los datos.
+* La  **ISO** se enfoca en la preservación de datos, sellado, verificación de integridad y controles para garantizar la confidencialidad, integridad y disponibilidad de los datos.
 
 **7. Elaboración de Informes**
 
 
 
 * La **NIST** considera explicaciones alternativas y adapta los informes al público objetivo, con una revisión y mejora continua de procedimientos y herramientas.
-* La **ISO** detalla los procedimientos ejecutados y documenta las herramientas utilizadas y sus versiones, asegurando que los procesos sean justificables y reproducibles.
+* La  **ISO**  detalla los procedimientos ejecutados y documenta las herramientas utilizadas y sus versiones, asegurando que los procesos sean justificables y reproducibles.
 
 
 ## **Metodología Propia - DVD 0001**
 
-Mi metodología** DVD 0001** se ha desarrollado como una síntesis eficiente de las directrices establecidas por la ISO/IEC 27037:2012 y la NIST en el campo del análisis forense digital. Este enfoque personal busca proporcionar un marco práctico y riguroso para cada una de las fases de esta norma, y ante todo priorizando la integridad y validez de los datos en todo momento.
+Mi metodología **DVD 0001** se ha desarrollado como una síntesis eficiente de las directrices establecidas por la ISO/IEC 27037:2012 y la NIST en el campo del análisis forense digital. Este enfoque personal busca proporcionar un marco práctico y riguroso para cada una de las fases de esta norma, y ante todo priorizando la integridad y validez de los datos en todo momento.
 
 **Fases de la metodología**
 
