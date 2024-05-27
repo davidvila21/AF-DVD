@@ -1,7 +1,39 @@
 # P.01 - Development of a Forensic Analysis Methodology
 
-**Índice**
+## **Índice**
 
+Introducción
+Análisis de Metodologías
+¿Cuáles he elegido y por qué?
+1º - NIST
+2º - ISO/IEC 27037:2012
+Comparativa entre ISO y NIST
+Metodología Propia - DVD 0001
+Estudio e Identificación de la evidencia
+Estudio Inicial
+Identificación de evidencias
+Recolección y Adquisición de Datos
+1. Identificación y Planificación
+1.1. Identificación de Fuentes de Datos
+1.2. Recolección Proactiva
+1.3. Planificación de la Adquisición
+2.1. Consideraciones Iniciales
+2.2. Qué No Hacer
+2.3. Uso de Herramientas Forenses
+3. Procedimientos de Almacenado
+3.1. Preservación de la Evidencia
+3.2. Cadena de Custodia
+3.2.1. Reconocimiento Inicial de la Evidencia
+3.2.2. Identificación y Marcado
+3.2.3. Preservación y Seguridad
+3.2.4. Registro Íntegro
+3.2.5. Control de Accesos
+3.2.6. Transporte de la evidencia
+3.2.7. Presentación Legal
+3.3. Almacenamiento Seguro
+Análisis de Evidencias
+Documentación y Presentación de resultados
+Conclusión
 
 
 ## **Introducción**
