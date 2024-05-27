@@ -4,13 +4,10 @@
 
 [Introducción](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#introducci%C3%B3n)          
 [Análisis de Metodologías](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-metodolog%C3%ADas)        
-
-[¿Cuáles he elegido y por qué?](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#cu%C3%A1les-he-elegido-y-por-qu%C3%A9)
+- [¿Cuáles he elegido y por qué?](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#cu%C3%A1les-he-elegido-y-por-qu%C3%A9)
 - [1º - NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
-- [2º - ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012-   )
-
+- [2º - ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012)
 [Comparativa entre ISO y NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#comparativa-entre-iso-y-nist)
-
 [Metodología Propia - DVD 0001](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#metodolog%C3%ADa-propia---dvd-0001)
 - [Estudio e Identificación de la evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-e-identificaci%C3%B3n-de-la-evidencia)
   - [Estudio Inicial](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-inicial)
