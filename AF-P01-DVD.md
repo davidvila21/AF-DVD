@@ -22,7 +22,7 @@
 - [Preservación y Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#preservaci%C3%B3n-y-cadena-de-custodia)
   - [1. Preservación de la Evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1-preservaci%C3%B3n-de-la-evidencia)
   - [2. Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2-cadena-de-custodia)
-  - [3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#33-almacenamiento-seguro)
+  - [3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#3-almacenamiento-seguro)
 
 - [Análisis de Evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-evidencias)
 - [Documentación y Presentación de resultados](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#documentaci%C3%B3n-y-presentaci%C3%B3n-de-resultados)
