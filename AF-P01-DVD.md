@@ -195,6 +195,8 @@ Para mi metodología, es esencial reconocer y evaluar diversas fuentes de datos,
    <td>
 <ul>
 
+<li>Memoria RAM.
+
 <li>Caché del sistema y registros temporales.
 
 <li>Tabla de enrutamiento, caché ARP, estadísticas del kernel.
