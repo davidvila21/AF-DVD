@@ -288,10 +288,10 @@ Desarrollar un plan considerando:
 * Seguir estrictamente la **cadena de custodia**, documentando cada acción realizada.
 
 
-#### **3. Procedimientos de Almacenado**
+## **Preservación y Cadena de Custodia**
 
 
-##### **3.1. Preservación de la Evidencia**
+### **1. Preservación de la Evidencia**
 
 Para garantizar la integridad de las pruebas:
 
@@ -303,7 +303,7 @@ Para garantizar la integridad de las pruebas:
 * **Evitar el Uso del Original:** Trabajar siempre con copias.
 
 
-##### **3.2. Cadena de Custodia**
+### **2. Cadena de Custodia**
 
 
 
@@ -313,37 +313,37 @@ Para garantizar la integridad de las pruebas:
 He aquí los **Principios Fundamentales** de la **Cadena de custodia** de esta metodología:
 
 
-###### 3.2.1. Reconocimiento Inicial de la Evidencia
+#### 2.1. Reconocimiento Inicial de la Evidencia
 
 Este primordial proceso de custodia se inicia con la **identificación preliminar** de la evidencia digital. Esto implica reconocer y registrar la ubicación, el tipo y la naturaleza de los datos relevantes, tales como archivos, registros del sistema o dispositivos.
 
 
-###### 3.2.2. Identificación y Marcado
+#### 2.2. Identificación y Marcado
 
 Es esencial **etiquetar y marcar** la evidencia adecuadamente. Cada elemento debe recibir una etiqueta única que permita su identificación futura. Esto incluye detalles sobre **quién** recopiló la evidencia, **cuándo** se recopiló y su **ubicación de origen**.
 
 
-###### 3.2.3. Preservación y Seguridad
+#### 2.3. Preservación y Seguridad
 
 La evidencia digital debe preservarse de manera segura para **evitar alteraciones**, eliminación o corrupción. Los procedimientos pueden incluir la creación de copias forenses, sellado de dispositivos o sistemas, y almacenamiento en un entorno controlado. La **autenticidad** de las copias debe ser **verificada** **por un testigo**, como un **notario**, para asegurar su validez en el tribunal.
 
 
-###### 3.2.4. Registro Íntegro
+#### 2.4. Registro Íntegro
 
 Se requiere una **documentación detallada** de **cada paso** del proceso de custodia, desde la identificación inicial hasta la presentación en el tribunal. Esto incluye registros de **quién** tuvo **acceso a la evidencia**, **cuándo** y **por qué**, así como cualquier cambio o manipulación.
 
 
-###### 3.2.5. Control de Accesos
+#### 2.5. Control de Accesos
 
 Es esencial mantener un **control riguroso** sobre quién tiene acceso a la evidencia en todo momento. Cualquier acceso o manipulación debe ser **registrado** y documentado adecuadamente.
 
 
-###### 3.2.6. Transporte de la evidencia
+#### 2.6. Transporte de la evidencia
 
 Existen **protocolos seguros** para garantizar la **integridad** de la evidencia en caso de necesidad de traslado de las evidencias a distintos tipos de laboratorios forenses. Estos se deben de seguir al pie de la letra, para mantener el principio de integridad comentado.
 
 
-###### 3.2.7. Presentación Legal
+#### 2.7. Presentación Legal
 
 En caso de que la **evidencia** deba ser **presentada** en un **tribunal** u otra instancia legal, es **obligatorio documentar** todos los pasos seguidos para **asegurar** la **integridad** y **autenticidad** de la evidencia.
 
@@ -553,7 +553,7 @@ Las siguientes tablas constituyen la estructura de manutención de la Cadena de 
 
 
 
-##### **3.3. Almacenamiento Seguro**
+##### **3. Almacenamiento Seguro**
 
 
 
