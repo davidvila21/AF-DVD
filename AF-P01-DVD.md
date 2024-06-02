@@ -18,10 +18,11 @@
 - [Recolección y Adquisición de Datos](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#recolecci%C3%B3n-y-adquisici%C3%B3n-de-datos)
   - [1. Identificación y Planificación](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1-identificaci%C3%B3n-y-planificaci%C3%B3n)
   - [2. Procedimientos de recolección]()
-  - [3. Procedimientos de Almacenado](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#3-procedimientos-de-almacenado)
-    - [3.1. Preservación de la Evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#31-preservaci%C3%B3n-de-la-evidencia)
-    - [3.2. Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#32-cadena-de-custodia)
-    - [3.3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#33-almacenamiento-seguro)
+
+- [Preservación y Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#preservaci%C3%B3n-y-cadena-de-custodia)
+  - [1. Preservación de la Evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1-preservaci%C3%B3n-de-la-evidencia)
+  - [2. Cadena de Custodia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2-cadena-de-custodia)
+  - [3. Almacenamiento seguro](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#33-almacenamiento-seguro)
 
 - [Análisis de Evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-evidencias)
 - [Documentación y Presentación de resultados](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#documentaci%C3%B3n-y-presentaci%C3%B3n-de-resultados)
@@ -553,7 +554,7 @@ Las siguientes tablas constituyen la estructura de manutención de la Cadena de 
 
 
 
-##### **3. Almacenamiento Seguro**
+### **3. Almacenamiento Seguro**
 
 
 
