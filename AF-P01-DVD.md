@@ -92,7 +92,7 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 **4. Manejo de Pruebas y Cadena de Custodia**
 
-* La** NIST** destaca en la contención de incidentes y la documentación profunda durante la respuesta. La cadena de custodia en esta norma asegura que los datos no se alteren.
+* La **NIST** destaca en la contención de incidentes y la documentación profunda durante la respuesta. La cadena de custodia en esta norma asegura que los datos no se alteren.
 * La cadena de custodia en la  **ISO** incluye identificación inicial, etiquetado, preservación y documentación detallada, con controles estrictos de acceso y transporte seguro.
 
 **5. Examen de Datos**
