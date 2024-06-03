@@ -641,7 +641,7 @@ En esta fase de la metodología **DVD 0001**, se va a elaborar un informe que do
 
 
 
-1. **Documentación Exhaustiva de Hallazgos:**
+1. **Documentación Profunda de Hallazgos:**
 
     Como ya se sabe, la documentación de todas las actividades realizadas durante el proceso forense es esencial. Este registro **incluye** **cada paso** llevado a cabo **durante la identificación**, **recolección**, **adquisición** y **conservación** de evidencias digitales (El análisis va aparte, se explica más adelante). La documentación detallada garantiza la **trazabilidad** y la transparencia, lo que es especialmente importante en investigaciones que puedan tener implicaciones transfronterizas. Se debe prestar especial atención a la configuración de **fecha y hora** de los dispositivos, comparándola con una **fuente de tiempo confiable** y anotando cualquier discrepancia sin modificar el sistema. Además, se debe **registrar todo lo visible** en las pantallas de los dispositivos, incluyendo programas y procesos activos, así como los nombres de los documentos abiertos. Todo movimiento de los dispositivos y los **identificadores únicos**, como números de serie y marcas, también deben ser cuidadosamente documentados.
 
