@@ -34,7 +34,7 @@
 
 Hoy en día vivimos en un mundo donde la tecnología es un componente esencial de nuestras vidas, desde las actividades diarias hasta los sistemas más complejos de infraestructuras críticas, la capacidad de analizar y entender los datos digitales se ha convertido en una necesidad imperiosa. La ciencia forense digital emerge como una disciplina importante para la investigación de incidentes cibernéticos, la resolución de disputas legales y la protección de información sensible.
 
-Esta vez nos centramos en la exploración y explicación de las metodologías de análisis forense informático, centrándonos particularmente en las normas y estándares internacionales que guían estas prácticas. A través de un análisis estricto y comparativo, se abordarán las pautas establecidas por la ISO/IEC y la NIST, dos de las entidades más influyentes en este campo. El objetivo es proporcionar una visión comprensiva sobre cómo se deben recopilar, preservar y analizar los datos digitales para garantizar su integridad, autenticidad y validez en entornos legales y de seguridad.
+Esta vez nos centramos en indagar y explicar varias metodologías de análisis forense informático, centrándonos particularmente en las normas y estándares internacionales que guían estas prácticas. A través del siguiente análisis comparativo, se abordarán las pautas establecidas por la ISO/IEC y la NIST, dos de las entidades más influyentes en este campo. El objetivo es proporcionar una visión comprensiva sobre cómo se deben recopilar, preservar y analizar los datos digitales para garantizar su integridad, autenticidad y validez en entornos legales y de seguridad.
 
 
 ## **Análisis de Metodologías**
@@ -659,13 +659,13 @@ En esta fase de la metodología **DVD 0001**, se va a elaborar un informe que do
 
 5. **Actualización y Capacitación del Personal:**
 
-    Se debe **proporcionar capacitación continua** **al personal** **involucrado** en el análisis forense para garantizar que estén familiarizados con las últimas técnicas y herramientas disponibles. La actualización constante del conocimiento es clave para mantener la calidad y precisión en la recolección y análisis de evidencias digitales.
+    Se debe **proporcionar capacitación continua** **al personal** **involucrado** en el análisis forense para garantizar que estén familiarizados con las últimas técnicas y herramientas disponible, y la actualización constante del conocimiento será clave para mantener la calidad y precisión en la recolección y análisis de evidencias digitales.
 
 
 
 ## **Conclusión**
 
-Para finalizar, se puede observar que mi metodología DVD 0001 garantiza una vista estructurada y robusta para el análisis forense digital, como ya he comentado, integrando eficientemente las directrices de la ISO/IEC 27037:2012 y la NIST. Desde la identificación inicial de evidencia hasta la presentación de resultados, cada fase se ha diseñado para asegurar la integridad y validez de los datos. Esta metodología no solo facilita la recolección y análisis de evidencias de manera efectiva, sino que también asegura la preservación legal y la trazabilidad a lo largo de todo el proceso. La flexibilidad de DVD 0001 permite su aplicación en diversos entornos y escenarios, garantizando la precisión, eficiencia y actualización continua en la gestión de incidentes de seguridad digital. En resumen, DVD 0001 proporciona una herramienta integral y adaptable para realizar investigaciones forenses digitales de manera eficiente y organizada.
+Para finalizar, se puede observar que mi metodología DVD 0001 garantiza una vista estructurada y robusta para el análisis forense digital, como ya he comentado, integrando eficientemente las directrices de la ISO/IEC 27037:2012 y la NIST. Esta metodología no solo va a facilitar los procesos de recolección y análisis de evidencias de manera efectiva, sino que también va a asegurar la preservación legal y la trazabilidad a lo largo de todo el proceso. Su flexibilidad también permite su aplicación en diversos entornos y escenarios, garantizando la precisión, eficiencia y actualización continua en la gestión de incidentes de seguridad digital. En pocas palabras, DVD 0001 proporciona una herramienta integral y adaptable para realizar investigaciones forenses digitales de manera eficiente y organizada.
 
 
 ## Resumen Esquemático
@@ -677,6 +677,10 @@ Para finalizar, se puede observar que mi metodología DVD 0001 garantiza una vis
 
 [ISO/IEC 27037:2012](https://es.scribd.com/document/558703660/NORMAS-ISO-IEC-27037-2012)
 
+[Más información sobre la ISO](https://peritoit.com/2012/10/23/isoiec-270372012-nueva-norma-para-la-recopilacion-de-evidencias/)
+
 [NIST](https://www.tarlogic.com/es/blog/guias-nist-ciberseguridad/)
+
+[Contenido y PDF oficial de la NIST](https://www.ftc.gov/es/guia-para-negocios/protegiendo-pequenos-negocios/ciberseguridad/marco-ciberseguridad-nist)
 
 [ChatGPT](https://chat.openai.com)
