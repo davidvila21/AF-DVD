@@ -671,3 +671,12 @@ Para finalizar, se puede observar que mi metodología DVD 0001 garantiza una vis
 ## Resumen Esquemático
 
 ![RESUMEN ESQUEMÁTICO](img/RESUMEN_ESQUEMATICO.png)
+
+
+## Referencia
+
+[ISO/IEC 27037:2012](https://es.scribd.com/document/558703660/NORMAS-ISO-IEC-27037-2012)
+
+[NIST](https://www.tarlogic.com/es/blog/guias-nist-ciberseguridad/)
+
+[ChatGPT](https://chat.openai.com)
