@@ -5,15 +5,15 @@
 [Introducción](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#introducci%C3%B3n)          
 [Análisis de Metodologías](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-metodolog%C3%ADas)        
 - [¿Cuáles he elegido y por qué?](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#cu%C3%A1les-he-elegido-y-por-qu%C3%A9)
-- [1º - NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
-- [2º - ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012)
+- [1. NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
+- [2. ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012)
 
 [Comparativa entre ISO y NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#comparativa-entre-iso-y-nist)
 
 [Metodología Propia - DVD 0001](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#metodolog%C3%ADa-propia---dvd-0001)
-- [Estudio e Identificación de la evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-e-identificaci%C3%B3n-de-la-evidencia)
-  - [Estudio Inicial](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-inicial)
-  - [Identificación de evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#identificaci%C3%B3n-de-evidencias)
+- [Estudio e Identificación de la Evidencia](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-e-identificaci%C3%B3n-de-la-evidencia)
+  - [1. Estudio Inicial](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#estudio-inicial)
+  - [2. Identificación de Evidencias](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#identificaci%C3%B3n-de-evidencias)
 
 - [Recolección y Adquisición de Datos](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#recolecci%C3%B3n-y-adquisici%C3%B3n-de-datos)
   - [1. Identificación y Planificación](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1-identificaci%C3%B3n-y-planificaci%C3%B3n)
@@ -45,7 +45,7 @@ Esta vez nos centramos en la exploración y explicación de las metodologías de
 En mi caso, voy a utilizar la metodología ISO/IEC 27037:2012 y la NIST como base para desarrollar mi propia metodología, porque creo que estas normas proporcionan un marco reconocido y bastante estandarizado hoy en día para la recolección, identificación, adquisición y preservación de evidencia digital, asegurando siempre la integridad y validez de los datos en investigaciones forenses. Además, ambas ofrecen directrices detalladas y mejores prácticas que han sido probadas y validadas en la industria, lo que facilita la creación de un enfoque robusto y confiable para el análisis forense informático.
 
 
-### **1º - NIST**
+### **1. NIST**
 
 La norma NIST establece un enfoque sistemático para responder a incidentes informáticos. Este enfoque se divide en etapas como la **recopilación de datos, el examen de los mismos, su análisis y la elaboración de informes**, todo con el objetivo de convertir los medios digitales en evidencia válida.
 
@@ -60,7 +60,7 @@ La norma NIST establece un enfoque sistemático para responder a incidentes info
 * Finalmente, se recomienda **mantener una consistencia en las investigaciones**, reconocer las fuentes de datos, recopilar datos de manera proactiva, aplicar un proceso de recolección estándar, adoptar un enfoque metódico en el análisis y revisar y actualizar constantemente las prácticas.
 
 
-### **2º - ISO/IEC 27037:2012**
+### **2. ISO/IEC 27037:2012**
 
 La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidencia digital de manera efectiva, complementando a las versiones 27001 y 27002. Esta se centra en aspectos como la **identificación, recopilación, adquisición y preservación de pruebas digitales**, con la finalidad de mantener su integridad y garantizar su validez legal.
 
