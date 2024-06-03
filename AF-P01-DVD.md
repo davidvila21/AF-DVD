@@ -5,8 +5,8 @@
 [Introducción](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#introducci%C3%B3n)          
 [Análisis de Metodologías](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#an%C3%A1lisis-de-metodolog%C3%ADas)        
 - [¿Cuáles he elegido y por qué?](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#cu%C3%A1les-he-elegido-y-por-qu%C3%A9)
-- [1. NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
-- [2. ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012)
+- [NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#1%C2%BA---nist)
+- [ISO/IEC 27037:2012](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#2%C2%BA---isoiec-270372012)
 
 [Comparativa entre ISO y NIST](https://github.com/davidvila21/AF-DVD/blob/main/AF-P01-DVD.md#comparativa-entre-iso-y-nist)
 
@@ -34,7 +34,7 @@
 
 Hoy en día vivimos en un mundo donde la tecnología es un componente esencial de nuestras vidas, desde las actividades diarias hasta los sistemas más complejos de infraestructuras críticas, la capacidad de analizar y entender los datos digitales se ha convertido en una necesidad imperiosa. La ciencia forense digital emerge como una disciplina importante para la investigación de incidentes cibernéticos, la resolución de disputas legales y la protección de información sensible.
 
-Esta vez nos centramos en la exploración y explicación de las metodologías de análisis forense informático, con un enfoque particular en las normas y estándares internacionales que guían estas prácticas. A través de un análisis riguroso, se abordarán las pautas establecidas por la ISO/IEC y la NIST, dos de las entidades más influyentes en este campo. El objetivo es proporcionar una visión comprensiva sobre cómo se deben recopilar, preservar y analizar los datos digitales para garantizar su integridad, autenticidad y validez en entornos legales y de seguridad.
+Esta vez nos centramos en la exploración y explicación de las metodologías de análisis forense informático, centrándonos particularmente en las normas y estándares internacionales que guían estas prácticas. A través de un análisis estricto y comparativo, se abordarán las pautas establecidas por la ISO/IEC y la NIST, dos de las entidades más influyentes en este campo. El objetivo es proporcionar una visión comprensiva sobre cómo se deben recopilar, preservar y analizar los datos digitales para garantizar su integridad, autenticidad y validez en entornos legales y de seguridad.
 
 
 ## **Análisis de Metodologías**
@@ -42,7 +42,7 @@ Esta vez nos centramos en la exploración y explicación de las metodologías de
 
 ### **¿Cuáles he elegido y por qué?**
 
-En mi caso, voy a utilizar la metodología ISO/IEC 27037:2012 y la NIST como base para desarrollar mi propia metodología, porque creo que estas normas proporcionan un marco reconocido y bastante estandarizado hoy en día para la recolección, identificación, adquisición y preservación de evidencia digital, asegurando siempre la integridad y validez de los datos en investigaciones forenses. Además, ambas ofrecen directrices detalladas y mejores prácticas que han sido probadas y validadas en la industria, lo que facilita la creación de un enfoque robusto y confiable para el análisis forense informático.
+En mi caso, voy a utilizar la metodología ISO/IEC 27037:2012 y la NIST como base para desarrollar mi propia metodología, porque creo que estas normas proporcionan una perspectiva amplia y bastante reconocida hoy en día para la recolección, identificación, adquisición y preservación de evidencia digital, asegurando siempre la integridad y validez de los datos en investigaciones forenses. Además, ambas ofrecen directrices detalladas y mejores prácticas que han sido probadas y validadas en la industria, lo que facilita la creación de una metodología confiable para el análisis forense informático.
 
 
 ### **1. NIST**
@@ -55,7 +55,7 @@ La norma NIST establece un enfoque sistemático para responder a incidentes info
 * La **identificación** se centra en la amplia gama de dispositivos digitales disponibles, desde ordenadores hasta celulares, y la importancia de tener en cuenta las restricciones legales y organizativas. Posteriormente, en la etapa de **adquisición de datos**, se divide en **planificación**, **adquisición efectiva** mediante herramientas y **verificación de la integridad** para garantizar que los datos no se alteren, subrayando la importancia de mantener una clara cadena de custodia.
 * Cuando se trata de **responder a incidentes**, se destaca la necesidad de **contención** al detectar un incidente, como la desconexión física o la **implementación** de **medidas de seguridad** adicionales. También se enfatiza la necesidad de evaluar el impacto operativo y documentar de manera profunda el acceso al sistema afectado durante la respuesta al incidente.
 * En la etapa de **examen**, se aborda la **evaluación de los datos recolectados**, destacando los desafíos relacionados con el volumen de datos y la necesidad de herramientas especializadas. Se menciona el **filtrado de datos** para identificar información relevante en grandes conjuntos de datos y se resalta la **importancia de las herramientas y técnicas especializadas**, como las búsquedas de texto y patrones, para facilitar el proceso de examen.
-* El **análisis requiere enfoques sistemáticos para identificar y correlacionar datos relevantes**, destacando la necesidad de herramientas como registros centralizados y software de gestión de eventos de seguridad. La comparación con las líneas de base y la documentación rigurosa son aspectos esenciales del análisis, especialmente si la evidencia se utilizará en acciones legales.
+* El **análisis requiere enfoques sistemáticos para identificar y correlacionar datos relevantes**, destacando la necesidad de herramientas como registros centralizados y software de gestión de eventos de seguridad. La comparación con las líneas de base y la documentación estricta son aspectos esenciales del análisis, especialmente si la evidencia se utilizará en acciones legales.
 * En la etapa de **informe**, se enfatiza la consideración de explicaciones alternativas y la adaptación del informe al público objetivo. Se destaca la importancia de identificar información accionable y se señala la necesidad de revisar y mejorar continuamente los procedimientos, así como mantenerse al día con las nuevas herramientas y tendencias tecnológicas.
 * Finalmente, se recomienda **mantener una consistencia en las investigaciones**, reconocer las fuentes de datos, recopilar datos de manera proactiva, aplicar un proceso de recolección estándar, adoptar un enfoque metódico en el análisis y revisar y actualizar constantemente las prácticas.
 
@@ -102,7 +102,7 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 **6. Análisis de Datos**
 
-* La **NIST** enfatiza los enfoques sistemáticos y el uso de herramientas para identificar y correlacionar datos relevantes, con una comparación con líneas de base y documentación rigurosa.
+* La **NIST** enfatiza los enfoques sistemáticos y el uso de herramientas para identificar y correlacionar datos relevantes, con una comparación con líneas de base y documentación precisa.
 * La  **ISO** se enfoca en la preservación de datos, sellado, verificación de integridad y controles para garantizar la confidencialidad, integridad y disponibilidad de los datos.
 
 **7. Elaboración de Informes**
@@ -113,7 +113,7 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 ## **Metodología Propia - DVD 0001**
 
-Mi metodología **DVD 0001** se ha desarrollado como una síntesis eficiente de las directrices establecidas por la ISO/IEC 27037:2012 y la NIST en el campo del análisis forense digital. Este enfoque personal busca proporcionar un marco práctico y riguroso para cada una de las fases de esta norma, y ante todo priorizando la integridad y validez de los datos en todo momento.
+Mi metodología **DVD 0001** se ha desarrollado como una síntesis eficaz de las directrices establecidas por la ISO/IEC 27037:2012 y la NIST en este campo del análisis forense digital. Este planteamiento personal busca proporcionar un uso práctico y directo para cada una de las fases de esta norma. A continuación se explicarán brevemente las fases que constituirán esta metodología:
 
 **Fases de la metodología**
 
@@ -131,16 +131,16 @@ La recolección de datos se realiza de manera planificada, identificando y asegu
 
 En esta etapa, se garantiza la preservación de la evidencia digital, aplicando medidas para mantener su integridad y validez legal, siguiendo los estándares establecidos por ambas metodologías. Además, se establece y documenta una cadena de custodia robusta, conforme a los requisitos detallados en la ISO/IEC 27037:2012, asegurando la trazabilidad y confiabilidad de la evidencia.
 
-4ª FASE: **Análisis de evidencias:**
+4ª FASE: **Análisis de Evidencias:**
 
 Se lleva a cabo un examen profundo y detallado de los datos recolectados, utilizando herramientas y técnicas especializadas, tal como se sugiere en la NIST, para identificar información relevante y descartar datos irrelevantes. Además, se realiza un análisis completo de los datos, adoptando enfoques sistemáticos y comparando con líneas de base, conforme a las directrices de la ISO/IEC 27037:2012, para correlacionar datos y extraer conclusiones significativas.
 
-5ª FASE: **Informe y Presentación de resultados:**
+5ª FASE: **Informe y Presentación de Resultados:**
 
 En esta fase, se elabora un informe detallado que documenta los hallazgos del análisis, adaptando la presentación al público objetivo y considerando explicaciones alternativas, como se recomienda en ambas metodologías. Además, se implementan **acciones posteriores, como revisar y mejorar continuamente los procedimientos, así como mantenerse actualizado con las nuevas herramientas y tendencias tecnológicas, para asegurar la efectividad y relevancia continua de la metodología.
 
 
-### **Estudio e Identificación de la evidencia**
+### **Estudio e Identificación de la Evidencia**
 
 Este apartado está dividido en dos sub-fases, el estudio inicial y la identificación de evidencias.
 
@@ -156,7 +156,7 @@ Este estudio es fundamental para garantizar la eficacia de la investigación for
 3. Es esencial **mantener** la **legalidad** y la **integridad** en cada etapa del estudio inicial, siguiendo protocolos y estándares éticos para asegurar la validez de la evidencia y el cumplimiento de los requisitos legales, **minimizando el manejo** de la **evidencia digital** potencial o dispositivo original. .
 
 
-#### **Identificación de evidencias**
+#### **Identificación de Evidencias**
 
 Este proceso de identificación es crítico (basado en la ISO/IEC 27037) ya que comienza con la **búsqueda** y **reconocimiento** de las posibles **pruebas digitales **del caso. Esto incluye la **identificación de cualquier dispositivo** que podría contener evidencia relevante, desde computadoras y teléfonos móviles hasta medios de almacenamiento más complejos como los NAS. Estos son las acciones que se deben realizar en esta fase:
 
@@ -336,12 +336,12 @@ Se requiere una **documentación detallada** de **cada paso** del proceso de cus
 
 #### 2.5. Control de Accesos
 
-Es esencial mantener un **control riguroso** sobre quién tiene acceso a la evidencia en todo momento. Cualquier acceso o manipulación debe ser **registrado** y documentado adecuadamente.
+Es esencial mantener un **control estricto** sobre quién tiene acceso a la evidencia en todo momento. Cualquier acceso o manipulación debe ser **registrado** y documentado adecuadamente.
 
 
 #### 2.6. Transporte de la evidencia
 
-Existen **protocolos seguros** para garantizar la **integridad** de la evidencia en caso de necesidad de traslado de las evidencias a distintos tipos de laboratorios forenses. Estos se deben de seguir al pie de la letra, para mantener el principio de integridad comentado.
+Se deberán seguir **protocolos seguros** para garantizar la **integridad** de la evidencia en caso de necesidad de traslado de las evidencias a distintos tipos de laboratorios forenses. Estos se deben de seguir al pie de la letra, para mantener el principio de integridad comentado.
 
 
 #### 2.7. Presentación Legal
