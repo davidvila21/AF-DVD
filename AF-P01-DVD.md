@@ -584,7 +584,7 @@ El enfoque de esta fase combina herramientas y técnicas especializadas siguiend
 
 
 
-3. Se emplean técnicas avanzadas para recuperar datos que hayan sido eliminados o dañados. Este proceso es crucial para descubrir información oculta que pueda ser fundamental para comprender la magnitud y naturaleza de las actividades sospechosas.
+3. Se emplean técnicas avanzadas para recuperar datos que hayan sido eliminados o dañados. Este proceso es vital para descubrir información oculta que pueda ser fundamental para comprender la magnitud y naturaleza de las actividades sospechosas.
 
 **Evaluación de Metadatos:**
 
@@ -628,11 +628,11 @@ El enfoque de esta fase combina herramientas y técnicas especializadas siguiend
 
 10. Este proceso también busca establecer vínculos entre los diferentes elementos encontrados y comprender las motivaciones detrás del ataque. Se elabora una narrativa coherente que incluye posibles conexiones entre eventos distintos.
 
-**Registro Minucioso de Procedimientos:**
+**Registro Detallado de Procedimientos:**
 
 
 
-11. Se documenta detalladamente cada paso del proceso de análisis. Esto incluye los métodos utilizados, los resultados obtenidos y cualquier manipulación realizada en las evidencias. La trazabilidad es crucial para asegurar la transparencia y la validez del análisis forense.
+11. Se documenta detalladamente cada paso del proceso de análisis. Esto incluye los métodos utilizados, los resultados obtenidos y cualquier manipulación realizada en las evidencias. La correcta trazabilidad es primordial para asegurar la transparencia y la validez del análisis forense.
 
 
 ### **Documentación y Presentación de resultados**
