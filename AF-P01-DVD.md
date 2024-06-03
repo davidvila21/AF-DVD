@@ -147,7 +147,7 @@ Este apartado está dividido en dos sub-fases, el estudio inicial y la identific
 
 #### **Estudio Inicial**
 
-Este estudio es fundamental para garantizar la eficacia de la investigación forense. Comienza con una **revisión profunda** de toda la información disponible sobre el caso, incluyendo documentos legales, informes policiales, registros de evidencia y testimonios. Esta recopilación proporciona una** visión completa** del contexto **del incidente** y ayuda a identificar áreas críticas que requieren atención especial.
+Este estudio es fundamental para garantizar la eficacia de la investigación forense. Comienza con una **revisión profunda** de toda la información disponible sobre el caso, incluyendo documentos legales, informes policiales, registros de evidencia y testimonios. Esta recopilación proporciona una **visión completa** del contexto **del incidente** y ayuda a identificar áreas críticas que requieren atención especial.
 
 
 
