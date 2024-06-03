@@ -568,67 +568,67 @@ Las siguientes tablas constituyen la estructura de manutención de la Cadena de 
 
 El enfoque de esta fase combina herramientas y técnicas especializadas siguiendo las recomendaciones del NIST y las directrices de la ISO/IEC 27037:2012, permitiendo identificar información relevante y descartar datos irrelevantes. A continuación, se describen los componentes clave del proceso:
 
-**➢ Selección de Instrumentos y Herramientas Forenses:**
+**Selección de Instrumentos y Herramientas Forenses:**
 
 
 
 1. Esta selección se basa en las necesidades específicas del análisis. Se eligen las herramientas más adecuadas para la tarea en cuestión, como aquellas para recuperación de datos, análisis de registros, técnicas de carving, análisis de malware, entre otras, dependiendo del incidente investigado.
 
-**➢ Inspección de Dispositivos y Almacenamiento:**
+**Inspección de Dispositivos y Almacenamiento:**
 
 
 
 2. Se realiza un examen detallado de los dispositivos y medios de almacenamiento digital. Este proceso busca no solo la evidencia visible, sino también indicadores ocultos, rastros de manipulación y artefactos digitales que puedan proporcionar información valiosa sobre las tácticas empleadas.
 
-**➢ Restauración de Información Eliminada o Corrupta:**
+**Restauración de Información Eliminada o Corrupta:**
 
 
 
 3. Se emplean técnicas avanzadas para recuperar datos que hayan sido eliminados o dañados. Este proceso es crucial para descubrir información oculta que pueda ser fundamental para comprender la magnitud y naturaleza de las actividades sospechosas.
 
-**➢ Evaluación de Metadatos:**
+**Evaluación de Metadatos:**
 
 
 
 4. El análisis de metadatos se realiza para establecer una cronología de eventos. Esta cronología ayuda a reconstruir la secuencia de acciones, identificar puntos de entrada y evaluar la persistencia de las amenazas.
 
-**➢ Investigación de Malware y Código Malicioso:**
+**Investigación de Malware y Código Malicioso:**
 
 
 
 5. En incidentes que involucren malware, se lleva a cabo un análisis detallado del código malicioso. Esto incluye desentrañar su funcionalidad, identificar posibles puntos de origen y evaluar su impacto en el sistema comprometido.
 
-**➢ Vinculación de Incidentes:**
+**Vinculación de Incidentes:**
 
 
 
 6. La correlación de eventos permite entender las relaciones entre diferentes actividades. Este análisis es esencial para reconstruir la secuencia de eventos, identificar vectores de ataque y evaluar la persistencia de las amenazas.
 
-**➢ Construcción de una Cronología:**
+**Construcción de una Cronología:**
 
 
 
 7. Se elabora una línea de tiempo detallada y gráfica del incidente, que incluye los eventos más relevantes ordenados cronológicamente con fechas y horas específicas. Esto facilita la comprensión del incidente para terceros.
 
-**➢ Contextualización de Información:**
+**Contextualización de Información:**
 
 
 
 8. Los datos se contextualizan dentro del panorama más amplio de la seguridad informática. Este análisis incluye la identificación de vulnerabilidades explotadas, las posibles motivaciones de los atacantes y la relevancia de los datos comprometidos.
 
-**➢ Determinación de Responsables:**
+**Determinación de Responsables:**
 
 
 
 9. Se busca identificar a los responsables de las actividades maliciosas mediante la trazabilidad de direcciones IP, el análisis de cuentas comprometidas y la identificación de patrones de comportamiento únicos.
 
-**➢ Establecimiento de Conexiones y Motivaciones:**
+**Establecimiento de Conexiones y Motivaciones:**
 
 
 
 10. Este proceso también busca establecer vínculos entre los diferentes elementos encontrados y comprender las motivaciones detrás del ataque. Se elabora una narrativa coherente que incluye posibles conexiones entre eventos distintos.
 
-**➢ Registro Minucioso de Procedimientos:**
+**Registro Minucioso de Procedimientos:**
 
 
 
