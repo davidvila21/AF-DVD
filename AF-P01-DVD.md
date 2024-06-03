@@ -666,3 +666,8 @@ En esta fase de la metodología **DVD 0001**, se va a elaborar un informe que do
 ## **Conclusión**
 
 Para finalizar, se puede observar que mi metodología DVD 0001 garantiza una vista estructurada y robusta para el análisis forense digital, como ya he comentado, integrando eficientemente las directrices de la ISO/IEC 27037:2012 y la NIST. Desde la identificación inicial de evidencia hasta la presentación de resultados, cada fase se ha diseñado para asegurar la integridad y validez de los datos. Esta metodología no solo facilita la recolección y análisis de evidencias de manera efectiva, sino que también asegura la preservación legal y la trazabilidad a lo largo de todo el proceso. La flexibilidad de DVD 0001 permite su aplicación en diversos entornos y escenarios, garantizando la precisión, eficiencia y actualización continua en la gestión de incidentes de seguridad digital. En resumen, DVD 0001 proporciona una herramienta integral y adaptable para realizar investigaciones forenses digitales de manera eficiente y organizada.
+
+
+## Resumen Esquemático
+
+![RESUMEN ESQUEMÁTICO](img/RESUMEN_ESQUEMATICO.png)
