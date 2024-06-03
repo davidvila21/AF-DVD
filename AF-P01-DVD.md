@@ -77,7 +77,7 @@ La metodología ISO/IEC 27037/2021 proporciona directrices para manejar evidenci
 
 **1. Perspectiva en general**
 
-* La **NIST** establece un enfoque sistemático dividido en estas etapas: recopilación de datos, examen, análisis y elaboración de informes, con el objetivo de convertir medios digitales en evidencia válida.
+* La **NIST** está sistemáticamente dividida en estas etapas: recopilación de datos, examen, análisis y elaboración de informes, con el objetivo de convertir medios digitales en evidencia válida.
 * La  **ISO**  proporciona directrices para manejar evidencia digital, enfocándose en la identificación, recopilación, adquisición y preservación de pruebas digitales, manteniendo su integridad y validez legal.
 
 **2. Recolección de Datos**
